@@ -1,2 +1,1 @@
-# 2023
-HappyNewYear2023-Responsive
+# HappyNewYear2023-Responsive
